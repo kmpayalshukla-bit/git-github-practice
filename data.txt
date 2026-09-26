@@ -1,0 +1,7 @@
+Name: Payal
+Course: B.tech CSE
+Specialization: AIML
+
+
+I am Learning Git and GitHub.
+This is my First GitHub repository.
